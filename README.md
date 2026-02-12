@@ -48,14 +48,11 @@ I prioritize:
 
 ### 🗄 Databases
 - PostgreSQL  
-- MySQL  
 - SQLite  
 
 ### ☁️ DevOps & Deployment
 - Docker  
-- Nginx  
 - GitHub Actions  
-- Linux server deployment  
 
 ---
 
@@ -72,8 +69,9 @@ I prioritize:
 
 - 🤖 **CLI AI Agent** – Linux-based coding assistant with tool-calling capability  
 - 🌐 **Web QA Automation Agent** – Intelligent browser verification system  
-- 📄 **Job Portal Backend** – CV builder & job notification system  
-- 🎧 **PDF to Audiobook Converter** – Robust text-to-speech pipeline  
+- 📄 **Job Portal** – CV builder & job notification system  
+- 🎧 **PDF to Audiobook Converter** – Robust text-to-speech pipeline
+- _and much more_
 
 > Source code remains private while being optimized.
 
@@ -90,6 +88,5 @@ I prioritize:
 
 ## 📫 Connect
 
-- GitHub: https://github.com/your-username  
-- LinkedIn: https://linkedin.com/in/your-profile  
-- Email: your-email@example.com  
+- GitHub: https://github.com/AliHaSSan-13
+- Email: alihassan.shahzadmughal@gmail.com

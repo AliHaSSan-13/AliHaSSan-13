@@ -73,7 +73,7 @@ I prioritize:
 - 🎧 **PDF to Audiobook Converter** – Robust text-to-speech pipeline
 - _and much more_
 
-> Source code remains private while being optimized.
+
 
 ---
 

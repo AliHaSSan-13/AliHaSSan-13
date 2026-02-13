@@ -28,7 +28,6 @@ I prioritize:
 - Python  
 - FastAPI  
 - Django  
-- Flask  
 - REST APIs  
 - Asyncio  
 
@@ -36,7 +35,8 @@ I prioritize:
 - Playwright  
 - Selenium  
 - Web scraping pipelines  
-- Linux scripting  
+- Linux scripting 
+- n8n
 - CLI tool development  
 
 ### 🧠 AI & LLM Systems
